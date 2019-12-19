@@ -1,0 +1,800 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 2;
+    --web-view-id: Web_1920___2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Web_1920___2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.Web_1920___2_Class {
+    position: absolute;
+    background: #E5E5E5;
+    width: 637px;
+    height: 732px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 2;
+    --web-view-id: Web_1920___2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+.Grupo_52_Class {
+    position: absolute;
+    width: 637px;
+    height: 732px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.logo_acantoteknos_01_Class {
+    position: absolute;
+    width: 180px;
+    height: 49px;
+    left: 228px;
+    top: 11px;
+    overflow: visible;
+}
+
+.Grupo_51_Class {
+    position: absolute;
+    width: 637px;
+    height: 591px;
+    left: 0px;
+    top: 32px;
+    overflow: visible;
+}
+
+.Rect_ngulo_8_m {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 518px;
+    left: 0px;
+    top: 37px;
+}
+
+.Grupo_50_Class {
+    position: absolute;
+    width: 637px;
+    height: 591px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Grupo_49_Class {
+    position: absolute;
+    width: 637px;
+    height: 591px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Trazado_165_js {
+    overflow: visible;
+    position: absolute;
+    width: 636.341px;
+    height: 142.835px;
+    left: 0.03px;
+    top: 223.867px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_11_Class {
+    position: absolute;
+    width: 637px;
+    height: 102px;
+    left: 0px;
+    top: 133px;
+    overflow: visible;
+}
+
+._Gracias_por_seguir__trabajand_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 638px;
+    height: 102px;
+    text-align: center;
+    font-family: Trajan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Te_deseamos_un_excelente_t_rmi_Class {
+    position: absolute;
+    left: 4px;
+    top: 438px;
+    overflow: hidden;
+    width: 629px;
+    height: 128px;
+    line-height: 27px;
+    margin-top: -4.5px;
+    text-align: center;
+    font-family: Trajan;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 732px;
+    left: 0px;
+    top: 0px;
+}
+
+.Rect_ngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 21px;
+    left: 0px;
+    top: 587px;
+}
+
+.Rect_ngulo_5 {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 6px;
+    left: 0px;
+    top: 669px;
+}
+
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 57px;
+    left: 0px;
+    top: 675px;
+}
+
+.Cont_ctanos____Class {
+    position: absolute;
+    left: 17px;
+    top: 683px;
+    overflow: hidden;
+    width: 228px;
+    height: 21px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.contacto_acantoteknos_com_Class {
+    position: absolute;
+    left: 17px;
+    top: 701px;
+    overflow: hidden;
+    width: 228px;
+    height: 18px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 1);
+}
+
+a {
+    color: white;
+}
+
+.Grupo_10_Class {
+    position: absolute;
+    width: 169.384px;
+    height: 32.914px;
+    left: 428.706px;
+    top: 687.292px;
+    overflow: visible;
+}
+
+.Grupo_4_Class {
+    position: absolute;
+    width: 69.878px;
+    height: 14.458px;
+    left: 99.506px;
+    top: 7.728px;
+    overflow: visible;
+}
+
+.Grupo_3_Class {
+    position: absolute;
+    width: 69.878px;
+    height: 14.458px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Trazado_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1.753px;
+    height: 1.755px;
+    left: 68.125px;
+    top: 12.42px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_2 {
+    overflow: visible;
+    position: absolute;
+    width: 10.394px;
+    height: 10.36px;
+    left: 46.98px;
+    top: 4.098px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_3 {
+    overflow: visible;
+    position: absolute;
+    width: 10.258px;
+    height: 4.812px;
+    left: 0px;
+    top: 9.416px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_4 {
+    overflow: visible;
+    position: absolute;
+    width: 10.26px;
+    height: 4.811px;
+    left: 10.86px;
+    top: 4.079px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_5 {
+    overflow: visible;
+    position: absolute;
+    width: 9.11px;
+    height: 4.812px;
+    left: 10.897px;
+    top: 9.416px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_6 {
+    overflow: visible;
+    position: absolute;
+    width: 9.069px;
+    height: 8.89px;
+    left: 0.006px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7 {
+    overflow: visible;
+    position: absolute;
+    width: 12.912px;
+    height: 8.84px;
+    left: 21.769px;
+    top: 0.05px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_8 {
+    overflow: visible;
+    position: absolute;
+    width: 13.033px;
+    height: 4.811px;
+    left: 21.773px;
+    top: 9.416px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_1_Class {
+    position: absolute;
+    width: 4.811px;
+    height: 4.813px;
+    left: 35.062px;
+    top: 9.383px;
+    overflow: visible;
+}
+
+.Trazado_9 {
+    overflow: visible;
+    position: absolute;
+    width: 4.811px;
+    height: 4.813px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_10 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: 2.406px;
+    top: 2.406px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_2_Class {
+    position: absolute;
+    width: 4.811px;
+    height: 4.813px;
+    left: 41.3px;
+    top: 9.383px;
+    overflow: visible;
+}
+
+.Trazado_11 {
+    overflow: visible;
+    position: absolute;
+    width: 4.811px;
+    height: 4.813px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_12 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: 2.406px;
+    top: 2.406px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_13 {
+    overflow: visible;
+    position: absolute;
+    width: 11.081px;
+    height: 4.809px;
+    left: 35.048px;
+    top: 4.081px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_14 {
+    overflow: visible;
+    position: absolute;
+    width: 10.469px;
+    height: 4.809px;
+    left: 59.374px;
+    top: 4.081px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_15 {
+    overflow: visible;
+    position: absolute;
+    width: 10.47px;
+    height: 4.809px;
+    left: 57.819px;
+    top: 9.416px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_9_Class {
+    position: absolute;
+    width: 80.122px;
+    height: 32.914px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Grupo_5_Class {
+    position: absolute;
+    width: 66.338px;
+    height: 13.24px;
+    left: 0px;
+    top: 8.661px;
+    overflow: visible;
+}
+
+.Trazado_16 {
+    overflow: visible;
+    position: absolute;
+    width: 6.415px;
+    height: 4.57px;
+    left: 46.463px;
+    top: 8.669px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_17 {
+    overflow: visible;
+    position: absolute;
+    width: 8.282px;
+    height: 7.631px;
+    left: 46.067px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_18 {
+    overflow: visible;
+    position: absolute;
+    width: 8.646px;
+    height: 4.421px;
+    left: 11.849px;
+    top: 8.792px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_19 {
+    overflow: visible;
+    position: absolute;
+    width: 9.769px;
+    height: 5.674px;
+    left: 11.874px;
+    top: 2.78px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_20 {
+    overflow: visible;
+    position: absolute;
+    width: 10.345px;
+    height: 4.482px;
+    left: 21.643px;
+    top: 8.736px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_21 {
+    overflow: visible;
+    position: absolute;
+    width: 9.38px;
+    height: 5.447px;
+    left: 22.959px;
+    top: 2.747px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_22 {
+    overflow: visible;
+    position: absolute;
+    width: 10.697px;
+    height: 10.471px;
+    left: 0px;
+    top: 2.758px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_23 {
+    overflow: visible;
+    position: absolute;
+    width: 11.216px;
+    height: 5.173px;
+    left: 33.823px;
+    top: 2.767px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_24 {
+    overflow: visible;
+    position: absolute;
+    width: 4.769px;
+    height: 4.262px;
+    left: 32.908px;
+    top: 8.716px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_25 {
+    overflow: visible;
+    position: absolute;
+    width: 4.662px;
+    height: 4.286px;
+    left: 39.796px;
+    top: 8.692px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_26 {
+    overflow: visible;
+    position: absolute;
+    width: 11.362px;
+    height: 4.57px;
+    left: 54.721px;
+    top: 8.616px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_27 {
+    overflow: visible;
+    position: absolute;
+    width: 11.433px;
+    height: 4.666px;
+    left: 54.905px;
+    top: 2.781px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_28 {
+    overflow: visible;
+    position: absolute;
+    width: 0.064px;
+    height: 0.019px;
+    left: 71.201px;
+    top: 21.845px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_29 {
+    overflow: visible;
+    position: absolute;
+    width: 1.375px;
+    height: 0.387px;
+    left: 74.437px;
+    top: 21.557px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_8_Class {
+    position: absolute;
+    width: 20.766px;
+    height: 32.914px;
+    left: 59.356px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Grupo_6_Class {
+    position: absolute;
+    width: 12.103px;
+    height: 10.838px;
+    left: 4.31px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Trazado_30 {
+    overflow: visible;
+    position: absolute;
+    width: 0.065px;
+    height: 0.019px;
+    left: 3.181px;
+    top: 10.607px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_31 {
+    overflow: visible;
+    position: absolute;
+    width: 1.375px;
+    height: 0.388px;
+    left: 6.417px;
+    top: 10.318px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_32 {
+    overflow: visible;
+    position: absolute;
+    width: 12.103px;
+    height: 10.838px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Grupo_7_Class {
+    position: absolute;
+    width: 12.102px;
+    height: 10.838px;
+    left: 0px;
+    top: 22.076px;
+    overflow: visible;
+}
+
+.Trazado_33 {
+    overflow: visible;
+    position: absolute;
+    width: 0.065px;
+    height: 0.019px;
+    left: 3.181px;
+    top: 10.607px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_34 {
+    overflow: visible;
+    position: absolute;
+    width: 1.375px;
+    height: 0.387px;
+    left: 6.417px;
+    top: 10.319px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_35 {
+    overflow: visible;
+    position: absolute;
+    width: 12.102px;
+    height: 10.838px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_36 {
+    overflow: visible;
+    position: absolute;
+    width: 12.1px;
+    height: 10.837px;
+    left: 8.665px;
+    top: 11.239px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.L_nea_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 19.06px;
+    left: 88.908px;
+    top: 5.736px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Rect_ngulo_3_ld {
+    position: absolute;
+    overflow: visible;
+    width: 637px;
+    height: 146px;
+    left: 0px;
+    top: 586px;
+}
+
+.logo_Class {
+    position: absolute;
+    width: 50px;
+    height: 8px;
+    left: 456px;
+    top: 632px;
+    overflow: visible;
+}
+
+.ECI_The_Elastic_Network_Class {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    left: 222px;
+    top: 628px;
+    overflow: visible;
+}
+
+.sera4_logo_color_2x_Class {
+    position: absolute;
+    width: 52px;
+    height: 17px;
+    left: 508px;
+    top: 628px;
+    overflow: visible;
+}
+
+.Viewtinet_logo_Class {
+    position: absolute;
+    width: 45px;
+    height: 12px;
+    left: 590px;
+    top: 631px;
+    overflow: visible;
+}
+
+.camelsecure_Class {
+    position: absolute;
+    width: 44px;
+    height: 18px;
+    left: 87px;
+    top: 628px;
+    overflow: visible;
+}
+
+.sophos_home_Class {
+    position: absolute;
+    width: 46px;
+    height: 27px;
+    left: 547px;
+    top: 623px;
+    overflow: visible;
+}
+
+.inuvika_logo_Class {
+    position: absolute;
+    width: 49px;
+    height: 12px;
+    left: 250px;
+    top: 632px;
+    overflow: visible;
+}
+
+.A10_Logo_1_Class {
+    position: absolute;
+    width: 27px;
+    height: 13px;
+    left: 8px;
+    top: 631px;
+    overflow: visible;
+}
+
+.ID1200px_Cisco_logo_Class {
+    position: absolute;
+    width: 32px;
+    height: 17px;
+    left: 182px;
+    top: 628px;
+    overflow: visible;
+}
+
+.ID1280px_Micro_Focus_logo_svg_Class {
+    position: absolute;
+    width: 44px;
+    height: 11px;
+    left: 307px;
+    top: 632px;
+    overflow: visible;
+}
+
+.PROXIM_Class {
+    position: absolute;
+    width: 36px;
+    height: 14px;
+    left: 418px;
+    top: 629px;
+    overflow: visible;
+}
+
+.ALBEDO_telecom_logo_Class {
+    position: absolute;
+    width: 37px;
+    height: 15px;
+    left: 41px;
+    top: 632px;
+    overflow: visible;
+}
+
+.ceragon_logo_Class {
+    position: absolute;
+    width: 38px;
+    height: 19px;
+    left: 136px;
+    top: 628px;
+    overflow: visible;
+}
+
+.Microsemi_Microchip_0_Class {
+    position: absolute;
+    width: 51px;
+    height: 50px;
+    left: 359px;
+    top: 613px;
+    overflow: visible;
+}
